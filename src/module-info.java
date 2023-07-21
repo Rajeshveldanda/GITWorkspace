@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author rveldanda
- *
- */
-module WorkSpace {
+ WorkSpace {
 }
